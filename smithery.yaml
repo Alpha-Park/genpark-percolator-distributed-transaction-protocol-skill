@@ -1,0 +1,6 @@
+name: genpark-percolator-distributed-transaction-protocol-skill
+version: 1.0.0
+description: Percolator snapshot-isolated distributed transaction protocol with primary-lock two-phase commit
+command: python
+args:
+  - mcp_server.py
